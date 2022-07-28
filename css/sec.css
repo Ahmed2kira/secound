@@ -1,0 +1,57 @@
+.l{
+   background-color: aliceblue; 
+   display: inline-block;
+   padding: 10px;
+   margin: 10px;
+   border-width: 5px;
+   border-color: red;
+   border-style: solid;
+   outline:black 5px solid;
+}
+.o{
+   background-color: aliceblue;
+   display: inline-block;
+   padding: 10px;
+   margin: 10px;
+   border-width: 5px;
+   /* top right bottom left */
+   border-color: blue green;     
+   border-style: solid;
+   outline:black 5px solid ;
+}
+.p{
+   background-color: aliceblue;
+   display: inline-block;
+   padding: 10px;
+   margin: 10px;
+   border-width: 5px;
+   border-color: red green blue yellow;
+   border-style: dashed;
+   outline:black 5px solid ;
+}
+ 
+
+
+
+div .non{
+   color: violet;
+}
+div .pogba{
+   color: palegreen;
+}
+p{
+   color: mediumpurple;
+}
+
+
+.car{
+   background-color: brown;
+   width:150px;
+   height: 150px;
+   overflow-y: hidden;
+}
+
+
+div .title{
+   color:red;
+}

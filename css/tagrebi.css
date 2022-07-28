@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+.first{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: aqua;
+    float: left;
+    width:23.75%;
+    margin-left: 1%;
+    /* display: block; */
+}
+.kkk{
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 4%;
+    text-align: center;
+    border-color: red green blue yellow;
+    border-style: double;
+    border-width: 10px;
+    background-color: black;
+    width: 10%;
+    border-radius: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+.car{
+   font-size: 50px;
+}
+
+.mon{
+    border:10px solid red ;
+    margin-bottom: 70px;
+    padding: 1%;
+    width: 20%;
+    color: sienna;
+    background-image: url("../img/412639.jpg");
+   
+}
+.ror{
+    font-size: larger;
+    text-align: right;
+}

@@ -1,0 +1,66 @@
+/* body{
+    margin: 0;
+}
+div{
+
+    padding-top:10px;
+    padding-bottom: 10px;
+    text-align: center;
+    float: left;   
+    background-color: aliceblue;
+    width: 15.5%;
+    margin-left:1%;
+    border-left: 1px solid yellow;
+    border-right: 1px solid rgba(0, 255, 85, 0.377);
+    border-top: 1px solid rgb(38, 0, 255);
+    border-bottom: 1px solid rgb(255, 0, 157);
+    background-image: url("../img/21.jpg");
+    }
+   
+    */
+
+/* 
+a{
+    text-decoration: none;
+    color: red;
+    font-size: larger;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-weight: bold;
+    background-image: url("../img/download.jfif");
+    background-size: 20%;
+     opacity: 0.5; 
+    background-position: 70px; 
+    }
+    */
+    
+     
+
+
+
+/* width= 100%
+lol=6+1=7---6 is the number i want it in page
+lol=7 spaces 1% *7= 7% fromcontnt width 
+93% avalibal space
+6 element width  = 93/6
+
+ */
+
+
+ .tata{
+    background-color: blue;
+    position:absolute;
+ }
+
+ .taa{
+    background-color: cadetblue;
+ }
+ div{
+    color: white;
+    width: 100px;
+    padding: 10px;
+ }
+ .tota{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(255, 0, 242);
+ }
